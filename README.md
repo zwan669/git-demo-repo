@@ -7,3 +7,5 @@ Added this line in a new branch called feature-readme-intructions
 
 conflict
 conflict-main
+
+remote-conflict-quick-test
